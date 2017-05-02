@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="G:\ownCloud\particleFilterRanging\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="G:\ownCloud\particleFilterRanging\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.2.1_9a9e662121a45a9833e9ba147561d081640f9acb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\ownCloud\particleFRoomRec\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="G:\ownCloud\particleFRoomRec\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.2.1_fd01b03cbafccd796431fdd1875b9fe180651880\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jose\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="G:\ownCloud\particleFRoomRec\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.2.1_4619ecb642cd8646b2caeebe3f9f75eba77c7286\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\ownCloud\particleFilterRanging\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c23387e3d4599f33cd6422ba87bf8967b04890a9">
+        <dex dex="G:\ownCloud\particleFilterRanging\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_16563ff648c5d8567c9763a4462a120e71ecb331\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\ownCloud\particleFilterRanging\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="G:\ownCloud\particleFilterRanging\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.2.1_9d3985c4911db43cb1094fe9529b6e8cb9c2fa79\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\ownCloud\particleFilterRanging\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="G:\ownCloud\particleFilterRanging\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.2.1_45ce907fd4377eacaa5684ae855c4cc64459eff7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\ownCloud\particleFRoomRec\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="667de67829289f436f6674c9297df74d1f1e4a4a">
+        <dex dex="G:\ownCloud\particleFRoomRec\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_14deab1ef90e17d6a00942f26fcf5926c37909f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\ownCloud\particleFRoomRec\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="G:\ownCloud\particleFRoomRec\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.2.1_264448b465a07fe07668e40e79c30a25c7cae1d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\ownCloud\particleFilterRanging\app\build\intermediates\exploded-aar\com.android.support\design\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="G:\ownCloud\particleFilterRanging\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.2.1_2cf27ad768f181f0f0d10f308b2b1f25208b1a54\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\ownCloud\particleFRoomRec\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="G:\ownCloud\particleFRoomRec\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.2.1_66b3bb1363c82a80bbc1327e32ee1acf7708f90f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\ownCloud\particleFilterRanging\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="G:\ownCloud\particleFilterRanging\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.2.1_b5b47f16bd3108cafe408cdb2a8e087f8734b492\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\ownCloud\particleFilterRanging\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="G:\ownCloud\particleFilterRanging\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.2.1_5d44fcdd47e3f5b42648078bb60d93d913eaad65\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\ownCloud\particleFilterRanging\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="486ce97c71f590f552eac6a9f62e9fa93aecf401">
+        <dex dex="G:\ownCloud\particleFilterRanging\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_41fe5e02b89f8276dc900fc183bcfdf62e6166be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\ownCloud\particleFilterRanging\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="G:\ownCloud\particleFilterRanging\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.2.1_8166d969adaf0e5b47f745d4760f0dbf9b2ced07\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\ownCloud\particleFRoomRec\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="G:\ownCloud\particleFRoomRec\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.2.1_b4fbcec341a75841f555af2e48cb1457e6e3cbae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\ownCloud\particleFRoomRec\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="G:\ownCloud\particleFRoomRec\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.2.1_2e25f202591dae0dab141a15f6fe0f663642b55c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\ownCloud\particleFRoomRec\app\build\intermediates\exploded-aar\com.android.support\design\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="G:\ownCloud\particleFRoomRec\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.2.1_0cc0575e189c905068787d83af0e389da75fd485\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\ownCloud\particleFRoomRec\app\libs\wekaSTRIPPED.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1d553332d3346a8efe1d52000973115cc5ef975d">
+        <dex dex="G:\ownCloud\particleFRoomRec\app\build\intermediates\transforms\dex\debug\folders\1000\2\wekaSTRIPPED_dce2f00632edb405a90eef774d446939fdca879f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\ownCloud\particleFRoomRec\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="G:\ownCloud\particleFRoomRec\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.2.1_1a469505ca7e326327ffa4d277a3847288d9d774\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\ownCloud\particleFilterRanging\app\libs\wekaSTRIPPED.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1d553332d3346a8efe1d52000973115cc5ef975d">
+        <dex dex="G:\ownCloud\particleFilterRanging\app\build\intermediates\transforms\dex\debug\folders\1000\2\wekaSTRIPPED_af099c8609d164b189fa3a51697e41279efcc592\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\ownCloud\particleFRoomRec\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="36fa6901c875f315503b97a566adc1f37942b246">
+        <dex dex="G:\ownCloud\particleFRoomRec\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_2c62e608b48e6bb8fad12129c21998dcc85b596b\classes.dex" />
+    </item>
+
+</items>

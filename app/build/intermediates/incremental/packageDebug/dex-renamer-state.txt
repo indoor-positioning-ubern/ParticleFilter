@@ -1,0 +1,7 @@
+#Tue May 02 11:38:09 CEST 2017
+base.0=G\:\\ownCloud\\particleFilterRanging\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_16563ff648c5d8567c9763a4462a120e71ecb331
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=G\:\\ownCloud\\particleFilterRanging\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_41fe5e02b89f8276dc900fc183bcfdf62e6166be\\classes.dex
+base.1=G\:\\ownCloud\\particleFilterRanging\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_41fe5e02b89f8276dc900fc183bcfdf62e6166be
+file.0=G\:\\ownCloud\\particleFilterRanging\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_16563ff648c5d8567c9763a4462a120e71ecb331\\classes.dex

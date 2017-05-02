@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="22"
+    density="560dpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="922629919089096"
+    token="-6267554493158451341"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="G:\ownCloud\particleFilterRanging\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+        type="DEX" />
+
+    <build
+        timestamp="922384961643056"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="G:\ownCloud\particleFilterRanging\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="922629919089096"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="G:\ownCloud\particleFilterRanging\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>
